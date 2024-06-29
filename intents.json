@@ -1,0 +1,74 @@
+{
+    "intents":[
+
+        {
+            "tag":"greeting",
+            "patterns":["hello","hii","hey","jarvis","wake up"
+
+            ],
+            "responses":["Hello Sir","How are you sir","Here's your assistant Jarvis."
+
+            ]
+        },
+        {
+            "tag":"Bye",
+            "patterns":["bye","good bye","bye bye","see you later","sleep"
+
+            ],
+            "responses":["bye Sir","see you soon","nice to meet you sir"
+
+            ]
+        },
+        {
+            "tag":"health",
+            "patterns":["how are you","are you fine","are you good","are you alright","how's you"
+
+            ],
+            "responses":["i'm fine sir thanks for asking","perfect what about you sir"
+
+            ]
+        },
+        {
+            "tag":"personal",
+            "patterns":["what's your name","what is your name","your name"
+            ],
+            "responses":["i'm JARVIS"]
+        },
+        {
+            "tag":"identity",
+            "patterns":["who are you"],
+            "responses":["an AI assistant named JARVIS"]
+        },
+        {
+            "tag":"Master",
+            "patterns":["who is your master", "Who created you","who do you work for"],
+            "responses":["Mister Akshat Gupta"]
+        },
+        {
+            "tag":"time",
+            "patterns":["what's time now", "time","samay kya hua hai"],
+            "responses":["time"]
+        },
+        {
+            "tag":"date",
+            "patterns":["today's date", "date","tareek","aaj ki dinak"],
+            "responses":["date"]
+        },
+        {
+            "tag":"day",
+            "patterns":["what's the day", "din","today","divas aaj ka"],
+            "responses":["day"]
+        },
+        {
+            "tag":"wikipedia",
+            "patterns":["what is", "about","who is","wikipedia"],
+            "responses":["wikipedia"]
+        },
+        {
+            "tag":"google",
+            "patterns":["google search", "google","search"],
+            "responses":["google"]
+        }
+    ]
+
+}

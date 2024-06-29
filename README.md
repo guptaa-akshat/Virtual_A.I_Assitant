@@ -5,9 +5,15 @@ Welcome to the Virtual AI Assistant (JARVIS) Project! This System is designed to
 
 # Features
 -> Natural Language Understanding: The AI assistant can comprehend and respond to user queries in natural language.
+
 -> Task Management: Create, update, and manage tasks and to-do lists.
+
 -> Scheduling: Set reminders, schedule appointments, and manage your calendar.
+
 -> Information Retrieval: Fetch information from the web, databases, and other sources.
+
 -> Home Automation: Control smart home devices, such as turning lights and switches on and off.
+
 -> Integration: Integrate with various third-party services and APIs.
+
 -> Neural Networks: Utilize neural networks for advanced natural language processing and understanding.

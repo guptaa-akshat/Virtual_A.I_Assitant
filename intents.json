@@ -40,23 +40,18 @@
             "responses":["an AI assistant named JARVIS"]
         },
         {
-            "tag":"Master",
-            "patterns":["who is your master", "Who created you","who do you work for"],
-            "responses":["Mister Akshat Gupta"]
-        },
-        {
             "tag":"time",
-            "patterns":["what's time now", "time","samay kya hua hai"],
+            "patterns":["what's time now", "time"],
             "responses":["time"]
         },
         {
             "tag":"date",
-            "patterns":["today's date", "date","tareek","aaj ki dinak"],
+            "patterns":["today's date", "date"],
             "responses":["date"]
         },
         {
             "tag":"day",
-            "patterns":["what's the day", "din","today","divas aaj ka"],
+            "patterns":["what's the day", "din"],
             "responses":["day"]
         },
         {
